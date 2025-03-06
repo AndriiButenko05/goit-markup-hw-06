@@ -280,6 +280,7 @@ img {
 }
 .mobile-menu-address {
   margin-bottom: 48px;
+  font-style: normal;
 }
 .mobile-menu-address-list {
   display: flex;
@@ -336,6 +337,7 @@ img {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  margin: 0 auto;
 }
 h1 {
   font-family: 'Roboto', sans-serif;
@@ -494,6 +496,7 @@ h1 {
 
 .team-sect {
   padding: 96px 0;
+  background-color: #f4f4fd;
 }
 
 .team {
