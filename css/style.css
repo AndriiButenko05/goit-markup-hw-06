@@ -680,9 +680,6 @@ h1 {
     opacity: 1;
     transform: translateY(0%);
   }
-  .portfolio-list-img {
-    /* width: 360px; */
-  }
   .portfolio-list {
     row-gap: 48px;
     column-gap: 24px;
@@ -782,8 +779,6 @@ h1 {
 .icon-svg-footer {
   fill: #f4f4fd;
 }
-.footer-subscribe-container {
-}
 .footer-subscribe-container-text {
   font-weight: 500;
   font-size: 16px;
@@ -792,8 +787,6 @@ h1 {
   color: #fff;
   margin-bottom: 16px;
   text-align: center;
-}
-.footer-subscribe-container-form {
 }
 
 .footer-subscribe-container-input {
